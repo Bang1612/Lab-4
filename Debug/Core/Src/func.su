@@ -1,0 +1,5 @@
+func.c:10:6:Toggle_LED1	8	static
+func.c:14:6:Toggle_LED2	8	static
+func.c:18:6:Toggle_LED3	8	static
+func.c:22:6:Toggle_LED4	8	static
+func.c:26:6:Toggle_LED5	8	static
